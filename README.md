@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Привет! Я [Твоё Имя]
 
-<!--
-**klivaoleg/klivaoleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 10-классник, увлечённый астрофизикой и машинным обучением  
+🌍 Россия | 🎓 Готовлюсь к поступлению на физтех/Computer Science  
+⚡ Сейчас работаю над детектированием гравитационных волн с помощью 1D-CNN
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Стек технологий
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch)
+![LaTeX](https://img.shields.io/badge/LaTeX-Document-orange?logo=latex)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git)
+
+---
+
+## 🚀 Текущий проект
+### 🔭 GW Detector & ML Framework
+Программный комплекс для симуляции отклика интерферометра и детектирования гравитационных волн нейросетью.
+- ✅ Физически корректная генерация мульти-детекторных данных (C++)
+- ✅ Обучение 1D-CNN с точностью >99% (PyTorch)
+- ✅ Валидация на реальных данных SXS Catalog
+- 📖 [Документация (LaTeX)](https://github.com/ТВОЙ_ЛОГИН/ТВОЙ_РЕПОЗИТОРИЙ/tree/main/docs)
+- 💻 [Исходный код](https://github.com/ТВОЙ_ЛОГИН/ТВОЙ_РЕПОЗИТОРИЙ)
+
+---
+
+## 📊 Статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЛОГИН&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📬 Контакты
+- 📧 Email: [твой@email.com](mailto:твой@email.com)
+- 💬 Telegram: [@твой_ник](https://t.me/твой_ник)
+- 🌐 Habr: [ссылка на профиль, когда создашь]
+- 🎓 Резюме/Портфолио: [ссылка, если есть]
+
+---
+*Спасибо, что заглянули! Если интересны гравитационные волны, ML или open-source наука — давайте общаться 🤝*
