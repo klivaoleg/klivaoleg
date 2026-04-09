@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠 Стек технологий
+##  Стек технологий
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch)
