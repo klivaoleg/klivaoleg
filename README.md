@@ -28,15 +28,15 @@
 ---
 
 ## 📊 Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klivaoleg&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klivaoleg&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klivaoleg&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klivaoleg&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 ## 📬 Контакты
 -  Email: [olegkliuvaev@mail.ru](mailto:olegkliuvaev@mail.ru)
 -  Telegram: [@oleg_Milka](https://t.me/oleg_Milka)
--  Habr: [crjhj]
+
 
 
 ---
