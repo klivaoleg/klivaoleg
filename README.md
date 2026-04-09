@@ -22,13 +22,13 @@
 - ✅ Обучение 1D-CNN с точностью >99% (PyTorch)
 - ✅ Валидация на реальных данных SXS Catalog
 - 📖 [Документация (LaTeX)](https://github.com/ТВОЙ_ЛОГИН/ТВОЙ_РЕПОЗИТОРИЙ/tree/main/docs)
-- 💻 [Исходный код](https://github.com/ТВОЙ_ЛОГИН/ТВОЙ_РЕПОЗИТОРИЙ)
+- 💻 [Исходный код](https://github.com/klivaoleg/ТВОЙ_РЕПОЗИТОРИЙ)
 
 ---
 
 ## 📊 Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЛОГИН&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klivaoleg&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klivaoleg&layout=compact&theme=dark&hide_border=true)
 
 ---
 
