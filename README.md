@@ -22,8 +22,8 @@
 - ✅ Физически корректная генерация мульти-детекторных данных (C++)
 - ✅ Обучение 1D-CNN с точностью >99% (PyTorch)
 - ✅ Валидация на реальных данных SXS Catalog
-- 📖 [Документация (LaTeX)](https://github.com/ТВОЙ_ЛОГИН/ТВОЙ_РЕПОЗИТОРИЙ/tree/main/docs)
-- 💻 [Исходный код](https://github.com/klivaoleg/ТВОЙ_РЕПОЗИТОРИЙ)
+- 📖 [Документация (LaTeX)](https://github.com/klivaoleg/gw-detector-framework/tree/main/docs)
+- 💻 [Исходный код](https://github.com/klivaoleg/gw-detector-framework)
 
 ---
 
